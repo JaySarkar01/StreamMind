@@ -1,6 +1,3 @@
-Got it ✅ Jay — here’s the **fully structured README in code block format** so you can copy–paste it directly into your `README.md` file without losing formatting:
-
-````markdown
 # Chat AI App
 
 A modern AI-powered chat application built with **Stream Chat**, **Google Gemini**, and **web search capabilities**.  
@@ -290,10 +287,3 @@ MIT License
 ---
 
 ✨ Built with **GetStream.io**, **Google Gemini**, and modern web tech.
-
-```
-
----
-
-👉 Jay, do you also want me to add a **small “Quick Start” section at the very top** (just clone, install, run) so anyone visiting GitHub gets started in under 30 seconds?
-```
