@@ -262,28 +262,4 @@ cd react-stream-ai-assistant && npm run build
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch
-3. Make changes
-4. Test
-5. Open a PR
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 🆘 Support
-
-* [GetStream.io Docs](https://getstream.io/chat/docs/)
-* [Google Gemini Docs](https://ai.google.dev/)
-* Create an issue in this repo
-
----
-
 ✨ Built with **GetStream.io**, **Google Gemini**, and modern web tech.
